@@ -1,7 +1,7 @@
 {
   "size": {
     "icon": {
-      "small": { "value":"1.5" },
+      "small": { "value":"1.6" },
       "base" : { "value":"2.0" },
       "large": { "value":"2.5" },
       "xl"   : { "value":"3.0" },
