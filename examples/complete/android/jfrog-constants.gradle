@@ -7,5 +7,5 @@ ext {
 
   dspocLibraryArtifactId = "dspoclibrary"
   dspocLibraryGroupId = "dspoc"
-  dspocLibraryVersion = "1.0.0"
+  dspocLibraryVersion = "1.0.1"
 }
